@@ -1,0 +1,5 @@
+[14-Jan-2021 23:52:55 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[20-Jan-2021 01:49:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[20-Jan-2021 03:09:16 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[20-Jan-2021 07:56:10 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[20-Jan-2021 07:57:32 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15

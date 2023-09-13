@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Calculator Apps</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+		.calculator {
+			width: auto;
+			height: auto;
+			margin: auto;
+			border-radius: 3px;
+			padding: 10px;
+			border: 0.5px solid #ddd;
+		}
+
+		.calculator .show .result {
+			padding: 5px;
+			text-align: right;
+			border-radius: 3px;
+			font-weight: bold;
+			font-size: 20px;
+			color: #d8dee9;
+		}
+		.myBtn {
+			width: 50px;
+			max-width: 60px;
+			text-align: center;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+	<br>
+		<div class="row">
+			<div class="calculator">
+				<div class="show">
+					<p class="bg-secondary result" id="display">
+						0
+					</p>
+				</div>
+				<div class="form-group">
+					<button class="btn btn-lg btn-danger" id="clear">C</button>
+					<button class="btn btn-lg btn-info" id="sqrt">√</button>
+					<button class="btn btn-lg btn-info" id="squar"><small>x</small><sup>2</sup></button>
+					<button class="btn btn-lg btn-info" id="plus_minus">&#177;</button>
+				</div>
+				<div class="form-group">
+					<button class="btn btn-lg btn-info calBtn" id="seven">7</button>
+					<button class="btn btn-lg btn-info calBtn" id="eight">8</button>
+					<button class="btn btn-lg btn-info calBtn" id="nine">9</button>
+
+					<button class="btn btn-lg btn-secondary calBtn myBtn" id="multiply">x</button>
+				</div>
+				<div class="form-group">
+					<button class="btn btn-lg btn-info calBtn" id="four">4</button>
+					<button class="btn btn-lg btn-info calBtn" id="five">5</button>
+					<button class="btn btn-lg btn-info calBtn" id="six">6</button>
+				
+					<button class="btn btn-lg btn-secondary myBtn calBtn" id="divison">÷</button>
+				</div>
+				<div class="form-group">
+					<button class="btn btn-lg btn-info calBtn" id="one">1</button>
+					<button class="btn btn-lg btn-info calBtn" id="two">2</button>
+					<button class="btn btn-lg btn-info calBtn" id="three">3</button>
+
+					<button class="btn btn-lg btn-secondary calBtn myBtn" id="minus">−</button>
+				</div>
+				<div class="form-group">
+					<button class="btn btn-lg btn-info calBtn" id="zero">0</button>
+					<button class="btn btn-lg btn-info calBtn" id="decimal">.</button>
+					<button class="btn btn-lg btn-success calBtn" id="equal">=</button>
+
+					<button class="btn btn-lg btn-secondary myBtn calBtn" id="plus">+</button>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="cal.js"></script>
+</body>
+</html>

@@ -1,0 +1,272 @@
+[02-Jan-2021 00:19:03 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[02-Jan-2021 00:19:03 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[02-Jan-2021 05:02:15 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[02-Jan-2021 05:02:15 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[02-Jan-2021 05:58:35 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[02-Jan-2021 05:58:35 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[02-Jan-2021 05:58:35 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[04-Jan-2021 05:34:32 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[04-Jan-2021 05:34:32 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[04-Jan-2021 05:34:32 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 133
+[04-Jan-2021 07:06:47 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[04-Jan-2021 07:06:47 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[04-Jan-2021 07:06:47 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[04-Jan-2021 09:09:06 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[04-Jan-2021 09:09:06 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[04-Jan-2021 09:09:06 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 133
+[04-Jan-2021 22:25:24 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[04-Jan-2021 22:25:24 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[04-Jan-2021 22:26:18 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[04-Jan-2021 22:26:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[05-Jan-2021 05:33:11 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[05-Jan-2021 05:33:11 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[05-Jan-2021 05:33:11 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[05-Jan-2021 08:40:52 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[05-Jan-2021 08:40:52 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[05-Jan-2021 08:40:52 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[05-Jan-2021 08:41:21 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[05-Jan-2021 08:41:21 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[05-Jan-2021 23:56:35 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[05-Jan-2021 23:56:35 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[05-Jan-2021 23:56:35 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 147
+[06-Jan-2021 00:41:01 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[06-Jan-2021 00:41:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[06-Jan-2021 00:41:01 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[07-Jan-2021 06:58:23 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[07-Jan-2021 06:58:23 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[07-Jan-2021 06:58:23 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[07-Jan-2021 09:37:30 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[07-Jan-2021 09:37:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[07-Jan-2021 09:37:30 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 147
+[08-Jan-2021 09:10:21 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[08-Jan-2021 09:10:21 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[08-Jan-2021 09:10:21 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[09-Jan-2021 06:32:52 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[09-Jan-2021 06:32:52 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[09-Jan-2021 06:32:52 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 152
+[10-Jan-2021 09:29:12 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[10-Jan-2021 09:29:12 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[10-Jan-2021 09:29:12 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 152
+[11-Jan-2021 05:22:53 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[11-Jan-2021 05:22:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[11-Jan-2021 05:22:53 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[12-Jan-2021 09:21:18 America/New_York] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[15-Jan-2021 00:29:18 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[15-Jan-2021 00:29:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[15-Jan-2021 00:29:18 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[15-Jan-2021 01:12:57 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[15-Jan-2021 01:12:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[15-Jan-2021 01:12:57 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 152
+[15-Jan-2021 06:23:46 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[15-Jan-2021 06:23:46 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[15-Jan-2021 06:23:46 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[20-Jan-2021 01:48:40 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[23-Jan-2021 02:53:07 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[23-Jan-2021 02:53:07 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[23-Jan-2021 02:53:07 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[25-Jan-2021 03:10:54 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[25-Jan-2021 03:10:54 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[25-Jan-2021 03:10:54 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[25-Jan-2021 22:19:53 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[25-Jan-2021 22:19:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[25-Jan-2021 22:19:53 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[27-Jan-2021 23:06:43 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[27-Jan-2021 23:06:43 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[27-Jan-2021 23:06:43 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[30-Jan-2021 23:40:23 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[30-Jan-2021 23:40:23 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[30-Jan-2021 23:40:23 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[01-Feb-2021 06:09:27 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[01-Feb-2021 06:09:27 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[01-Feb-2021 06:09:27 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[01-Feb-2021 06:09:41 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[01-Feb-2021 06:09:41 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[01-Feb-2021 07:46:57 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/asirisgu/khata.mkrow.com/AminulStore/connection.php on line 15
+[12-Feb-2021 03:49:44 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[12-Feb-2021 03:49:44 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[12-Feb-2021 03:49:44 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[14-Feb-2021 07:27:39 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[14-Feb-2021 07:27:39 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[14-Feb-2021 07:27:39 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[21-Feb-2021 06:46:56 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[21-Feb-2021 06:46:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[21-Feb-2021 06:46:56 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[27-Feb-2021 06:32:50 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[27-Feb-2021 06:32:50 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[27-Feb-2021 06:32:50 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[08-Mar-2021 04:32:30 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[08-Mar-2021 04:32:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[08-Mar-2021 04:32:30 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[09-Mar-2021 06:25:59 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[09-Mar-2021 06:25:59 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[09-Mar-2021 06:25:59 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 152
+[13-Mar-2021 23:52:54 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[13-Mar-2021 23:52:54 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[13-Mar-2021 23:52:54 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[14-Mar-2021 01:02:44 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 7
+[14-Mar-2021 01:02:44 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 59
+[14-Mar-2021 01:02:44 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction_view.php on line 152
+[16-Mar-2021 09:44:34 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[16-Mar-2021 09:44:34 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[16-Mar-2021 09:44:34 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[02-Apr-2021 02:02:26 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[02-Apr-2021 02:02:26 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[02-Apr-2021 02:02:26 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[04-Apr-2021 09:17:03 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[04-Apr-2021 09:17:03 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[04-Apr-2021 09:17:03 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[06-Apr-2021 01:35:53 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[06-Apr-2021 01:35:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[06-Apr-2021 01:35:53 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[10-Apr-2021 23:08:08 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[10-Apr-2021 23:08:08 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[10-Apr-2021 23:08:08 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[18-Apr-2021 08:20:30 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[18-Apr-2021 08:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[18-Apr-2021 08:20:30 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[18-May-2021 03:51:57 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[18-May-2021 03:51:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[18-May-2021 03:51:57 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[19-May-2021 08:30:44 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[19-May-2021 08:30:45 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[19-May-2021 08:30:45 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[19-May-2021 08:31:02 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[19-May-2021 08:31:02 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[02-Jun-2021 02:37:59 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[02-Jun-2021 02:37:59 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[02-Jun-2021 02:37:59 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[12-Jun-2021 08:04:06 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[12-Jun-2021 08:04:06 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[12-Jun-2021 08:04:06 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[12-Jun-2021 11:21:24 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[12-Jun-2021 11:21:24 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[12-Jun-2021 11:21:24 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[18-Jun-2021 05:07:57 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[18-Jun-2021 05:07:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[18-Jun-2021 05:07:57 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[19-Jun-2021 01:43:54 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[19-Jun-2021 01:43:54 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[19-Jun-2021 01:43:54 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[05-Jul-2021 08:35:56 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[05-Jul-2021 08:35:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[05-Jul-2021 08:35:56 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[16-Jul-2021 09:44:49 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[16-Jul-2021 09:44:49 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[16-Jul-2021 09:44:49 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[27-Jul-2021 08:31:08 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[27-Jul-2021 08:31:08 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[27-Jul-2021 08:31:08 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[31-Jul-2021 02:08:09 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[31-Jul-2021 02:08:09 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[31-Jul-2021 02:08:09 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[31-Jul-2021 07:50:23 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[31-Jul-2021 07:50:23 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[31-Jul-2021 07:50:23 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[15-Aug-2021 08:05:26 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[15-Aug-2021 08:05:26 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[15-Aug-2021 08:05:26 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[17-Aug-2021 08:30:37 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[17-Aug-2021 08:30:37 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[17-Aug-2021 08:30:37 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[23-Aug-2021 08:42:24 America/New_York] PHP Notice:  Undefined index: userid in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[23-Aug-2021 08:42:24 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[23-Aug-2021 08:42:24 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/asirisgu/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[19-Sep-2021 04:22:04 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[19-Sep-2021 04:22:04 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[19-Sep-2021 04:22:04 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[19-Sep-2021 04:22:21 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer.php on line 7
+[19-Sep-2021 04:22:21 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer.php on line 69
+[26-Dec-2021 06:44:50 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[26-Dec-2021 06:44:50 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[26-Dec-2021 06:44:50 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[01-Jan-2022 06:51:39 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[01-Jan-2022 06:51:39 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[01-Jan-2022 06:51:39 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[29-Jan-2022 07:13:35 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[29-Jan-2022 07:13:35 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[29-Jan-2022 07:13:35 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[13-Feb-2022 08:06:06 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[13-Feb-2022 08:06:06 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[13-Feb-2022 08:06:06 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[07-Mar-2022 06:30:48 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[07-Mar-2022 06:30:48 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[07-Mar-2022 06:30:48 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[13-May-2022 09:00:14 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[13-May-2022 09:00:14 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[13-May-2022 09:00:14 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[20-May-2022 03:56:18 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[20-May-2022 03:56:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[20-May-2022 03:56:18 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[22-May-2022 09:37:25 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[22-May-2022 09:37:25 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[22-May-2022 09:37:25 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[03-Jun-2022 01:59:34 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[03-Jun-2022 01:59:34 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[03-Jun-2022 01:59:34 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[03-Jun-2022 05:38:49 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[03-Jun-2022 05:38:49 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[03-Jun-2022 05:38:49 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[16-Jun-2022 10:34:00 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[16-Jun-2022 10:34:00 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[16-Jun-2022 10:34:00 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[20-Jun-2022 10:52:14 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[20-Jun-2022 10:52:14 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[20-Jun-2022 10:52:14 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[22-Jun-2022 09:05:16 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[22-Jun-2022 09:05:16 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[22-Jun-2022 09:05:16 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[22-Jul-2022 10:06:42 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[22-Jul-2022 10:06:42 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[22-Jul-2022 10:06:42 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[01-Aug-2022 07:52:23 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[01-Aug-2022 07:52:23 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[01-Aug-2022 07:52:23 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[11-Aug-2022 08:30:16 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[11-Aug-2022 08:30:16 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[11-Aug-2022 08:30:16 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[25-Aug-2022 01:58:14 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[25-Aug-2022 01:58:14 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[25-Aug-2022 01:58:14 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[26-Aug-2022 08:17:26 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[26-Aug-2022 08:17:26 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[26-Aug-2022 08:17:26 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[27-Aug-2022 03:29:36 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[27-Aug-2022 03:29:36 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[27-Aug-2022 03:29:36 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[29-Aug-2022 08:31:49 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[29-Aug-2022 08:31:49 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[29-Aug-2022 08:31:49 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[04-Sep-2022 05:00:09 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[04-Sep-2022 05:00:09 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[04-Sep-2022 05:00:09 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[05-Sep-2022 08:50:55 America/New_York] PHP Notice:  Undefined index: userid in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 7
+[05-Sep-2022 08:50:55 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 59
+[05-Sep-2022 08:50:55 America/New_York] PHP Notice:  Undefined variable: today_balance in /home/mkrokxiv/khata.mkrow.com/AminulStore/View/customer_transaction.php on line 103
+[01-Oct-2022 10:43:17 UTC] PHP Notice:  Undefined index: userid in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 7
+[01-Oct-2022 10:43:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 59
+[01-Oct-2022 10:43:17 UTC] PHP Notice:  Undefined variable: today_balance in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 103
+[19-Oct-2022 07:08:57 UTC] PHP Notice:  Undefined index: userid in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction_view.php on line 7
+[19-Oct-2022 07:08:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction_view.php on line 59
+[19-Oct-2022 07:08:57 UTC] PHP Notice:  Undefined variable: today_balance in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction_view.php on line 152
+[16-Jan-2023 13:54:17 UTC] PHP Notice:  Undefined index: userid in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 7
+[16-Jan-2023 13:54:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 59
+[16-Jan-2023 13:54:17 UTC] PHP Notice:  Undefined variable: today_balance in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 103
+[27-Apr-2023 08:13:29 UTC] PHP Notice:  Undefined index: userid in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 7
+[27-Apr-2023 08:13:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 59
+[27-Apr-2023 08:13:29 UTC] PHP Notice:  Undefined variable: today_balance in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 103
+[28-May-2023 12:07:16 UTC] PHP Notice:  Undefined index: userid in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 7
+[28-May-2023 12:07:16 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 59
+[28-May-2023 12:07:16 UTC] PHP Notice:  Undefined variable: today_balance in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 103
+[01-Jun-2023 04:36:08 UTC] PHP Notice:  Undefined index: userid in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 7
+[01-Jun-2023 04:36:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 59
+[01-Jun-2023 04:36:08 UTC] PHP Notice:  Undefined variable: today_balance in /home/mkrocxis/public_html/BakiKhata/AminulStore/View/customer_transaction.php on line 103
+[08-Sep-2023 15:34:45 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[08-Sep-2023 15:34:56 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[08-Sep-2023 17:02:23 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[09-Sep-2023 11:00:28 UTC] PHP Warning:  Undefined array key "userid" in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 7
+[09-Sep-2023 11:00:28 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[09-Sep-2023 17:40:32 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[13-Sep-2023 15:38:10 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[13-Sep-2023 15:38:26 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[13-Sep-2023 15:38:48 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
+[13-Sep-2023 15:39:02 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/mkrokwsy/public_html/HisabKhata/View/customer.php on line 69
