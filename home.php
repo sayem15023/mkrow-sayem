@@ -359,13 +359,6 @@ if (mysqli_num_rows($result) > 0) {
                   <p>গ্রাহক যুক্ত করুন</p>
                 </a>
               </li>
-
-              <li class="nav-item">
-                <a href="#" onclick="getcontent('supplier')" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Add Supplier</p>
-                </a>
-              </li>
               
 
 
@@ -445,8 +438,6 @@ if (mysqli_num_rows($result) > 0) {
         
         .card:hover{
             background-color: ffff88;
-        }
-        
         }
         
     </style>
@@ -584,12 +575,12 @@ if (mysqli_num_rows($result) > 0) {
 <!-- Sub Card 4 -->
 
 <div class="card-container sub-card-4" style="display:none;">
-        <div class="card" onclick='getContent(1)'>
+        <div class="card" onclick="getcontent('employee')">
             <i class="fa fa-address-book"></i> <!-- Replace with your own icon -->
             <br>
             <p>কর্মী যোগ করা  </p>
         </div>
-        <div class="card">
+        <div class="card" onclick="getcontent('supplier')">
             <i class="fa fa-plus"></i> <!-- Replace with your own icon -->
             <br>
             <p>সাপ্লায়ার যোগ করা </p>

@@ -16,12 +16,12 @@ $userid=$_SESSION["userid"];
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Supplier</h1>
+            <h1>সাপ্লায়ার</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="home.php">হোম</a></li>
-              <li class="breadcrumb-item active">Supplier</li>
+              <li class="breadcrumb-item active">সাপ্লায়ার</li>
             </ol>
           </div>
         </div>
@@ -42,8 +42,8 @@ $userid=$_SESSION["userid"];
 
     <div class="card card-info">
               <div class="card-header">
-                <h3 class="card-title" >Supplier List </h3>
-                <a href="#add"><span style="float:right; cursor:pointer;">New Supplier </span></a>
+                <h3 class="card-title" >সাপ্লায়ার তালিকা </h3>
+                <a href="#add"><span style="float:right; cursor:pointer;">নতুন সাপ্লায়ার </span></a>
               </div>
               <!-- /.card-header -->
               <div class="card-body" style="overflow:auto;">
@@ -51,10 +51,10 @@ $userid=$_SESSION["userid"];
                   <thead class="thead-light">
                   <tr>
                     <th style='text-align:center;'>#</th>
-                    <th>Supplier Name </th>
+                    <th>সাপ্লায়ার নাম </th>
                     <th>মোবাইল নং </th>
                     <th>ঠিকানা </th>
-                    <th>রেফারেন্স </th>
+                    <th>পণ্যের ক্যাটাগরি </th>
                     <th style='text-align:center;'>অ্যাকশন </th>
                   </tr>
                   </thead>
@@ -64,7 +64,7 @@ $userid=$_SESSION["userid"];
 
 $slno=0;
 
-$sql = "SELECT id,name,mobileno,address,reference FROM supplier where userid=$userid order by name";
+$sql = "SELECT * FROM supplier where userid=$userid order by id";
 $result = $conn->query($sql);
 if ($result->num_rows > 0) {
   // output data of each row
@@ -78,7 +78,7 @@ if ($result->num_rows > 0) {
      echo "<td class='name'>".$name."</td>"; 
      echo "<td class='mobileno'>".$row['mobileno']."</td>"; 
      echo "<td class='address'>".$row["address"]."</td>"; 
-     echo "<td class='reference'>".$row["reference"]."</td>"; 
+     echo "<td class='product_category_id'>".$row["product_category_id"]."</td>"; 
      
      echo "<td class='text-center py-0 align-middle' style='text-align:center;'>
                       <div class='btn-group btn-group-sm'>
@@ -117,7 +117,7 @@ if ($result->num_rows > 0) {
         <div class="col-md-12">
           <div class="card card-primary">
             <div class="card-header">
-              <h3 class="card-title">Add New Supplier</h3>
+              <h3 class="card-title">সাপ্লায়ারের যোগ করার ফর্ম</h3>
 
               <div class="card-tools">
                 <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -127,8 +127,8 @@ if ($result->num_rows > 0) {
             <div class="card-body">
 
               <div class="form-group">
-                <label for="category">Supplier Name</label>
-                <input type="text" id="name" style="width:25%" class="form-control" placeholder="গ্রাহকের নাম">
+                <label for="category">সাপ্লায়ার নাম</label>
+                <input type="text" id="name" style="width:25%" class="form-control" placeholder="সাপ্লায়ার নাম">
               </div>
  
               <div class="form-group">
@@ -142,8 +142,16 @@ if ($result->num_rows > 0) {
               </div>
               
               <div class="form-group">
-                <label for="category">রেফারেন্স </label>
-                <input type="text" id="reference" style="width:25%" class="form-control"  placeholder="রেফারেন্স ">
+                <label for="product_category_id">পণ্যের ক্যাটাগরি  </label>
+                <!-- <input type="text" id="product_category_id" style="width:25%" class="form-control"  placeholder="পণ্যের ক্যাটাগরি  "> -->
+
+                <select id="product_category_id" style="width:25%" class="form-control">
+                  <option value="">Select Category</option>
+                  <option value="1">Electrical</option>
+                  <option value="saab">Home Appliance</option>
+                  <option value="mercedes">Groceries</option>
+              </select>
+
               </div>
 
 
